@@ -1,0 +1,7 @@
+database name: tarrahi
+user name: root
+password:---
+----------------------------------
+website
+username:dorsa
+password:z(2qZ8e0la2Bl0qWy^
